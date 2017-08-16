@@ -2,6 +2,7 @@
 
 This Swift template lets you get started quickly with a simple working example using Swift Package Manager and XCTest. If this is your first contribution, you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) guide.
  
+$`\begin{bmatrix}1 & 9 & -13 \\\ 20 & 5 & -6 \end{bmatrix}`$
 
 The source code is on [GitHub](https://github.com/TechDotIO/swift-template), please feel free to come up with proposals to improve it.
 
