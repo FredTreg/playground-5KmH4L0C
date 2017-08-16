@@ -1,9 +1,9 @@
 title : Swift by XorMod (with the best avatar ever)
- plan:
+plan:
   - title: Swift on Tech.io
-      statement: markdowns/welcome.md
+    statement: markdowns/welcome.md
 projects:
-    first-project:
+  first-project:
     root: /swift-template
     runner:
       name: swift
