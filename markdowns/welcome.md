@@ -4,7 +4,7 @@ This Swift template lets you get started quickly with a simple working example u
  
 $`\begin{bmatrix}1 & 9 & -13 \\\ 20 & 5 & -6 \end{bmatrix}`$
 
-$`\begin{equation*} \int_1^2 \ln x \mathrm{d}x \qquad \int_1^2 \ln x \\,\mathrm{d}x \end{equation*}`$
+$`\begin{equation*} \int_1^2 \ln x \mathrm{d}x \qquad \int_1^2 \ln x \\:\mathrm{d}x \end{equation*}`$
 
 The source code is on [GitHub](https://github.com/TechDotIO/swift-template), please feel free to come up with proposals to improve it.
 
